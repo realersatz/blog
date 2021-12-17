@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Realersatz</title>
+    <link href="https://realersatz.github.io/blog/feed.xml" rel="self" />
+    <link href="https://realersatz.github.io/blog" />
+    <updated>2021-12-17T09:56:35+01:00</updated>
+    <author>
+        <name>Laurent</name>
+    </author>
+    <id>https://realersatz.github.io/blog</id>
+
+    <entry>
+        <title>premier post</title>
+        <author>
+            <name>Laurent</name>
+        </author>
+        <link href="https://realersatz.github.io/blog/premier-post.html"/>
+        <id>https://realersatz.github.io/blog/premier-post.html</id>
+
+        <updated>2021-12-17T09:56:35+01:00</updated>
+            <summary>
+                <![CDATA[
+                    premier post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>premier post</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
